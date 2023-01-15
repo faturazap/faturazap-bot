@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "dev": "nodemon -r tsconfig-paths/register --ignore node_modules/ src/bot.ts",
+    "dev": "nodemon -r tsconfig-paths/register --ignore node_modules/ --ignore auth_info_baileys src/bot.ts",
     "start": "node dist/bot.js"
   },
   "dependencies": {
