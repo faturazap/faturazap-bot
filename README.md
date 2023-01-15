@@ -7,12 +7,12 @@ Make sure you have them installed on your PC.
 ## Running the project
 1 - Clone the project
 ```zsh
-git clone https://github.com/as-projects/pay-whatsapp-bot.git
+git clone https://github.com/faturazap/faturazap-bot.git
 ```
 
 2 - Change the project directory
 ```zsh
-cd pay-whatsapp-bot
+cd faturazap-bot
 ```
 
 3 - Install yarn dependencies
